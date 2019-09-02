@@ -1,4 +1,4 @@
-package bawei.com.myapplication;
+package bawei.com.ddd;
 
 import org.junit.Test;
 
